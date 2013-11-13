@@ -26,7 +26,7 @@ public class TestObjectUtils {
 	
 	@Test
 	public void testToDelimitedString(){
-		final String delimitedString = objectUtils.toDelimitedString(createTrade(), PIPE_DELIMIT);
+		final String delimitedString = objectUtils.toString(createTrade(), PIPE_DELIMIT);
 		assertNotNull(delimitedString);
 		assertEquals("1|NYSE|11324.11", delimitedString);
 	}

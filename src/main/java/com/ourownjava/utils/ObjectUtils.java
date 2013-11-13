@@ -14,13 +14,22 @@ import org.apache.commons.lang3.StringUtils;
  * 
  */
 public class ObjectUtils {
-	
-	public String toDelimitedString(final Object object, final String delimit) {
+
+	/**
+	 * This method shall accept any object and convert to a string form with given delimit.
+	 * Another variant of toString method which takes an object and delimit as parameters.
+	 * 
+	 * @param object
+	 * @param delimit
+	 * @return
+	 */
+	public String toString(final Object object, final String delimit) {
 		final List<Object> fieldValues = new ArrayList<Object>();
 		final Field[] fields = object.getClass().getDeclaredFields();
 		try {
 			for (final Field field : fields) {
-				fieldValues.add(PropertyUtils.getSimpleProperty(object, field.getName()));
+				fieldValues.add(PropertyUtils.getSimpleProperty(object,
+						field.getName()));
 			}
 		} catch (IllegalAccessException e) {
 			throw new RuntimeException(e);
