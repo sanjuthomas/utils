@@ -1,0 +1,26 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                      http://maven.apache.org/xsd/settings-1.0.0.xsd">
+	<localRepository>/home/thosan/java/mavenrepo</localRepository>
+	<interactiveMode>true</interactiveMode>
+	<usePluginRegistry>false</usePluginRegistry>
+	<offline>false</offline>
+	<profiles>
+		<profile>
+			<repositories>
+				<repository>
+					<id>maven-central</id>
+					<name>maven-central</name>
+					<url>http://repo1.maven.org/maven/</url>
+				</repository>
+				<repository>
+					<id>maven-central2</id>
+					<name>maven-central2</name>
+					<url>http://repo2.maven.org/maven2/</url>
+				</repository>
+			</repositories>
+		</profile>
+	</profiles>
+
+</settings>
