@@ -2,7 +2,7 @@ package com.ourownjava.utils;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
-import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 import org.apache.commons.beanutils.PropertyUtils;
@@ -24,7 +24,7 @@ public class ObjectUtils {
 	 * @return
 	 */
 	public String toString(final Object object, final String delimit) {
-		final List<Object> fieldValues = new ArrayList<Object>();
+		final List<Object> fieldValues = new LinkedList<Object>();
 		final Field[] fields = object.getClass().getDeclaredFields();
 		try {
 			for (final Field field : fields) {
