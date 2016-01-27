@@ -1,1 +1,181 @@
 
+usage: IMPORT [-aggregate_record_element <QName>]
+       [-aggregate_record_namespace <namespace>] [-aggregate_uri_id
+       <QName>] [-archive_metadata_optional <true,false>] [-batch_size
+       <number>] [-collection_filter <String>] [-content_encoding
+       <encoding>] [-copy_collections <true,false>] [-copy_permissions
+       <true,false>] [-copy_properties <true,false>] [-copy_quality
+       <true,false>] [-database <database>] [-delimited_root_name <root
+       name>] [-delimited_uri_id <column name>] [-delimiter <delimiter>]
+       [-directory_filter <String>] [-document_type <type>] [-fastload
+       <true,false>] [-filename_as_collection <true,false>] [-generate_uri
+       <true, false>] [-hadoop_conf_dir <directory>] -host <host>
+       [-input_compressed <true,false>] [-input_compression_codec <codec>]
+       -input_file_path <path> [-input_file_pattern <regex pattern>]
+       [-input_file_type <type>] [-max_split_size <number>]
+       [-min_split_size <number>] [-mode <mode>] [-namespace <namespace>]
+       [-output_cleandir <true,false>] [-output_collections <collections>]
+       [-output_directory <directory>] [-output_language <language>]
+       [-output_partition <partition name>] [-output_permissions
+       <permissions>] [-output_quality <quality>] [-output_uri_prefix
+       <prefix>] [-output_uri_replace <list>] [-output_uri_suffix
+       <suffix>] -password <password> [-port <port>]
+       [-sequencefile_key_class <class name>] [-sequencefile_value_class
+       <class name>] [-sequencefile_value_type <value type>] [-split_input
+       <true,false>] [-streaming <true,false>] [-temporal_collection
+       <String>] [-thread_count <count>] [-thread_count_per_split <count>]
+       [-tolerate_errors <true,false>] [-transaction_size <number>]
+       [-transform_function <String>] [-transform_module <String>]
+       [-transform_namespace <String>] [-transform_param <String>]
+       [-type_filter <String>] -username <username> [-xml_repair_level
+       <level>]
+ -aggregate_record_element <QName>         Element name in which each
+                                           document is found
+ -aggregate_record_namespace <namespace>   Element namespace in which each
+                                           document is found
+ -aggregate_uri_id <QName>                 Name of the first element or
+                                           attribute within a record
+                                           element to be used as document
+                                           URI. If omitted, a sequence id
+                                           will be generated to  form the
+                                           document URI.
+ -archive_metadata_optional <true,false>   Whether to allow empty metadata
+                                           when importing archive
+ -batch_size <number>                      Number of document in one
+                                           request
+ -collection_filter <String>               Comma-separated list of
+                                           collections
+ -content_encoding <encoding>              The charset encoding to be used
+                                           by the MarkLogic when loading
+                                           documents.  The default is
+                                           "UTF-8".
+ -copy_collections <true,false>            Whether to copy document
+                                           collections from source to
+                                           destination
+ -copy_permissions <true,false>            Whether to copy document
+                                           permissions from source to
+                                           destination
+ -copy_properties <true,false>             Whether to copy document
+                                           properties from source to
+                                           destination
+ -copy_quality <true,false>                Whether to copy document
+                                           quality from source to
+                                           destination
+ -database <database>                      Database of MarkLogic Server
+ -delimited_root_name <root name>          Root element local name of the
+                                           XML document constructed from
+                                           one delimited text record.
+ -delimited_uri_id <column name>           Delimited uri id for delimited
+                                           text.
+ -delimiter <delimiter>                    Delimiter for delimited text.
+ -directory_filter <String>                Comma-separated list of
+                                           directories
+ -document_type <type>                     Type of document content. Valid
+                                           choices: XML, JSON, TEXT,
+                                           BINARY, and MIXED.  Default
+                                           type for document is MIXED,
+                                           where the type is determined
+                                           from the MIME type mapping
+                                           configured in MarkLogic Server.
+ -fastload <true,false>                    Whether to use the fast load
+                                           mode to load content into
+                                           MarkLogic
+ -filename_as_collection <true,false>      Filename as collection in
+                                           output.
+ -generate_uri <true, false>               Enables automatic URI
+                                           generation for delimited text
+                                           records.
+ -hadoop_conf_dir <directory>              Override $HADOOP_CONF_DIR
+ -host <host>                              Host of MarkLogic Server
+ -input_compressed <true,false>            Whether the input data is
+                                           compressed
+ -input_compression_codec <codec>          Codec used for compression:
+                                           ZIP, GZIP
+ -input_file_path <path>                   The file system location for
+                                           input, as a regular expression
+ -input_file_pattern <regex pattern>       Matching regex pattern for
+                                           files found in the input file
+                                           path
+ -input_file_type <type>                   Type of input file.  Valid
+                                           choices are: aggregates,
+                                           archive, delimited_text,
+                                           documents, forest,rdf,
+                                           sequencefile.
+ -max_split_size <number>                  Maximum number of MarkLogic
+                                           documents per each input split
+                                           in export or copy, or maximum
+                                           number of bytes in file per
+                                           each split in import
+ -min_split_size <number>                  Minimum number of bytes in file
+                                           per each split in import
+ -mode <mode>                              Whether to run in local or
+                                           distributed mode.
+ -namespace <namespace>                    Namespace used for output
+                                           document.
+ -output_cleandir <true,false>             Whether to clean dir before
+                                           output.
+ -output_collections <collections>         Comma separated list of
+                                           collection to be applied to
+                                           output documents
+ -output_directory <directory>             Output directory in MarkLogic.
+ -output_language <language>               Language name to associate with
+                                           output documents.  A value of
+                                           "en" indicates that the
+                                           documents are in english.  The
+                                           default is null, which
+                                           indicates the server default.
+ -output_partition <partition name>        The partition where docs are
+                                           inserted
+ -output_permissions <permissions>         Comma separated list of
+                                           user-privilege pairs to be
+                                           applied to output documents
+ -output_quality <quality>                 Quality to be applied to output
+                                           documents
+ -output_uri_prefix <prefix>               String to prepend to all
+                                           document URIs
+ -output_uri_replace <list>                Comma separated list of regex
+                                           pattern and string pairs, 1st
+                                           to match a uri segment, 2nd the
+                                           string to replace with, with
+                                           the 2nd one in ''
+ -output_uri_suffix <suffix>               String to append to all
+                                           document URIs
+ -password <password>                      Password of MarkLogic Server
+ -port <port>                              Port of MarkLogic Server
+ -sequencefile_key_class <class name>      Name of class to be used as key
+                                           to read the  input SequenceFile
+ -sequencefile_value_class <class name>    Name of class to be used as
+                                           value to read the input
+                                           SequenceFile
+ -sequencefile_value_type <value type>     Type of the value data returned
+                                           by the above class.  Valid
+                                           choices are: Text,
+                                           BytesWritable,
+                                           MarkLogicDocument and Path.
+ -split_input <true,false>                 Whether to split input files to
+                                           load into MarkLogic.   Only
+                                           available for delimited_text.
+                                           Default is false.
+ -streaming <true,false>                   Whether to use streaming to
+                                           output data to MarkLogic
+ -temporal_collection <String>             temporal collection name
+ -thread_count <count>                     Number of threads
+ -thread_count_per_split <count>           The number of threads per split
+ -tolerate_errors <true,false>             Whether to tolerate insertion
+                                           errors and make sure all
+                                           successful inserts are
+                                           committed
+ -transaction_size <number>                Number of requests in one
+                                           transaction
+ -transform_function <String>              Name of the transform function
+ -transform_module <String>                Path to the module containing
+                                           the transform function
+ -transform_namespace <String>             Namespace of the transform
+                                           function
+ -transform_param <String>                 Name of the transform function
+ -type_filter <String>                     Comma-separated list of
+                                           document types
+ -username <username>                      User name of MarkLogic Server
+ -xml_repair_level <level>                 Whether to repair documents to
+                                           make it well formed or throw
+                                           error.
