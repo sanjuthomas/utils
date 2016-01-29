@@ -1,0 +1,3 @@
+e handler : /MarkLogic/rest-api/error-handler.xqy
+
+rewriter : /MarkLogic/rest-api/rewriter.xml
