@@ -1,20 +1,25 @@
-
 function Employee(id, name){
 
-    this.id = id;
-    this.name = name;
+    this.empId = id;
+    this.empName = name;
 
-    return {
+    return{
         getId : function(){
-            return id;
+            return empId;
         },
         getName : function(){
-            return name;
+            return empName;
         },
+        setName : function(nameArg){
+          empName = nameArg;
+        }
 
     }
+
 }
 
-var e = new Employee(1, 'Employee-1');
-console.log(e.getId())
+var e = Employee(1, "e1");
+console.log(e.getId());
+console.log(e.getName());
+e.setName("test");
 console.log(e.getName())
