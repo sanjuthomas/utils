@@ -3,3 +3,6 @@
       <name>MarkLogic Releases</name>
       <url>http://developer.marklogic.com/maven2</url>
   </repository>
+
+
+/MarkLogic/rest-api/rewriter.xml
