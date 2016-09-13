@@ -1,0 +1,21 @@
+import
+-mode
+local
+-host
+192.168.2.99
+-port
+8080
+-username
+admin
+-password
+admin
+-input_file_path 
+/Users/sthomas/HighRoads/plans
+-output_uri_replace 
+"/Users/sthomas/HighRoads/plans, ''"
+-output_uri_prefix 
+/hr/plans/
+-output_collections
+plans
+-document_type
+json
