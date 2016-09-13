@@ -2,7 +2,7 @@ import
 -mode
 local
 -host
-192.168.2.99
+localhost
 -port
 8080
 -username
@@ -10,12 +10,12 @@ admin
 -password
 admin
 -input_file_path 
-/Users/sthomas/HighRoads/plans
+/Users/sthomas
 -output_uri_replace 
-"/Users/sthomas/HighRoads/plans, ''"
+"/Users/sthomas, ''"
 -output_uri_prefix 
-/hr/plans/
+/test/
 -output_collections
-plans
+test
 -document_type
 json
