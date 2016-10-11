@@ -1,3 +1,6 @@
 e handler : /MarkLogic/rest-api/error-handler.xqy
 
 rewriter : /MarkLogic/rest-api/rewriter.xml
+
+
+fn.error(null,"Consultant REST Extension",("403", "Unauthorized","You don't have permission to edit this page. Only the owner of the profile or admin can edit this page"))
