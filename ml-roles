@@ -1,0 +1,40 @@
+----------------------------
+var permissions = xdmp.documentGetPermissions("/marklogic.rest.resource/search/assets/resource.sjs")
+var roles = [];
+for(i =0; i &lt; permissions.length; i++){
+  roles.push(permissions[i].roleId)
+}
+
+roles
+
+----------------------------
+
+var roleIds  =[
+"2946732501308473329"
+];
+
+var roles = {};
+
+for(i= 0; i &lt; roleIds.length; i ++){
+    roles[roleIds[i]] = sec.getRoleNames(roleIds[i]);
+}
+roles
+
+----------------------------
+
+var roleObject = {
+"2946732501308473329": "&lt;sec:role-name xmlns:sec=\"http://marklogic.com/xdmp/security\"&gt;application-plugin-registrar&lt;/sec:role-name&gt;"
+}
+
+var permissions = xdmp.documentGetPermissions("/marklogic.rest.resource/documents/assets/resource.sjs")
+var roles = [];
+for(i =0; i &lt; permissions.length; i++){
+   var role = {};
+   role.name = roleObject[permissions[i].roleId]
+   role.permission = permissions[i].capability
+   roles.push(role)
+}
+
+roles
+
+-----------------------------
