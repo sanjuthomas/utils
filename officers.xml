@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+   <CompanyName xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" Type="Primary">WGL Holdings Inc</CompanyName>
+   <officers>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="195706" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T01:48:58" />
+            <Name>
+               <Info Type="LastName">McCallister</Info>
+               <Info Type="FirstName">Terry</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">D.</Info>
+               <Info Type="Age">60</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="9287">University of MissouriRolla</College>
+                  <Degree ID="BS ">Bachelor of Science</Degree>
+                  <Major ID="906">Engineering Materials</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741865" Title="Chairman of the Board, Chief Executive Officer" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="195706" Title="Chairman of the Board, Chief Executive Officer" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="104052" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-24T02:48:09" />
+            <Name>
+               <Info Type="LastName">Chapman</Info>
+               <Info Type="FirstName">Adrian</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">P.</Info>
+               <Info Type="Age">58</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741857" Title="President, Chief Operating Officer" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="1364037" Title="President, Chief Operating Officer" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="685002" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:03:27" />
+            <Name>
+               <Info Type="LastName">Ammann</Info>
+               <Info Type="FirstName">Vincent</Info>
+               <Info Type="Suffix">Jr</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">L.</Info>
+               <Info Type="Age">56</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="2666">University of Connecticut</College>
+                  <Degree ID="MBA">Masters of Business Administration</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="1160">University of Michigan</College>
+                  <Degree ID="BBA">Bachelor of Business Administration</Degree>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741844" Title="Chief Financial Officer, Senior Vice President" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="685002" Title="Chief Financial Officer, Senior Vice President" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="837670" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:05:06" />
+            <Name>
+               <Info Type="LastName">Staebler</Info>
+               <Info Type="FirstName">Douglas</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">A.</Info>
+               <Info Type="Age">55</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="1990">Rutgers, The State University of New Jersey</College>
+                  <Degree ID="MBA">Masters of Business Administration</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="1967">Villanova University</College>
+                  <Degree ID="BS ">Bachelor of Science</Degree>
+                  <Major ID="43">Civil Engineering</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="906494" Title="Senior Vice President - Utility Operations" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="2585020" Title="Senior Vice President-Utility Operations" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="1262447" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:06:11" />
+            <Name>
+               <Info Type="LastName">Ford</Info>
+               <Info Type="FirstName">William</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">R.</Info>
+               <Info Type="Age">60</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="1466889" Title="Chief Accounting Officer, Vice President" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="1517818" Title="Chief Accounting Officer, Vice President" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="685007" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:07:49" />
+            <Name>
+               <Info Type="LastName">Chandra</Info>
+               <Info Type="FirstName">Gautam</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Age">49</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741854" Title="Senior Vice President—Strategy, Business Development and Non-Utility Operations" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="685007" Title="Vice President - Business Development, Strategy and Non-Utility Operations" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="721568" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-04-20T06:20:20" />
+            <Name>
+               <Info Type="LastName">Thornton</Info>
+               <Info Type="FirstName">Leslie</Info>
+               <Info Type="Prefix">Ms.</Info>
+               <Info Type="Middle/Initial">T.</Info>
+               <Info Type="Age">57</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="917">University of Pennsylvania</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="858">Georgetown University</College>
+                  <Major ID="139">Law</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="2325677" Title="Senior Vice President, General Counsel, Corporate Secretary" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="2320550" Title="Vice President, General Counsel" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A18C9" OrgID="122940" Name="Career Education Corp." Active="1" />
+               <Officer ID="726113" Title="Lead Independent Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="1131130" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:33:31" />
+            <Name>
+               <Info Type="LastName">Nee</Info>
+               <Info Type="FirstName">Anthony</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="PreferredName">Tony</Info>
+               <Info Type="Middle/Initial">M.</Info>
+               <Info Type="Age">59</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <Certifications>
+               <Certificate ID="7">Certified Public Accountant</Certificate>
+            </Certifications>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="1813">Pennsylvania State University</College>
+                  <Degree ID="BS ">Bachelor of Science</Degree>
+                  <Major ID="1">Accounting</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="1425077" Title="Vice President, Treasurer" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="1283346" Title="Vice President, Treasurer" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="1125705" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:08:51" />
+            <Name>
+               <Info Type="LastName">Frye</Info>
+               <Info Type="FirstName">Marcellous</Info>
+               <Info Type="Suffix">Jr.</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">P.</Info>
+               <Info Type="Age">47</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="1275481" Title="Vice President - Support Services" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="2585003" Title="Vice President-support service" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="1325091" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:09:57" />
+            <Name>
+               <Info Type="LastName">Gutermuth</Info>
+               <Info Type="FirstName">Luanne</Info>
+               <Info Type="Prefix">Ms.</Info>
+               <Info Type="Middle/Initial">S.</Info>
+               <Info Type="Age">53</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="1531444" Title="Chief Human Resource Officer, Senior Vice President—Shared Services" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="2585007" Title="Vice President-Human Resource &amp; Organization Development" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="2158486" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:29:50" />
+            <Name>
+               <Info Type="LastName">Hutchinson</Info>
+               <Info Type="FirstName">Louis</Info>
+               <Info Type="Suffix">III</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">J.</Info>
+               <Info Type="Age">50</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="2697905" Title="Vice President and Chief Revenue Officer" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="2585011" Title="Vice President and Chief Revenue Officer" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AFF08" OrgID="100675525" Name="Initiate Systems,Inc." Active="0" />
+               <Officer ID="2298947" Title="Vice President" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="2158490" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:32:26" />
+            <Name>
+               <Info Type="LastName">Lowe</Info>
+               <Info Type="FirstName">Mark</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">A.</Info>
+               <Info Type="Age">52</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="2697910" Title="Vice President—Gas Supply and Engineering" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="2585017" Title="Vice President-Gas Supply and Engineering" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92979" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:34:17" />
+            <Name>
+               <Info Type="LastName">Sims</Info>
+               <Info Type="FirstName">Roberta</Info>
+               <Info Type="Prefix">Ms.</Info>
+               <Info Type="Middle/Initial">Willis</Info>
+               <Info Type="Age">61</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741872" Title="Vice President - Rates and Regulatory Affairs" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="2585019" Title="Vice President-Rates and Regulatory Affairs" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="2158491" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:40:19" />
+            <Name>
+               <Info Type="LastName">Townsend</Info>
+               <Info Type="FirstName">Tracy</Info>
+               <Info Type="Prefix">Ms.</Info>
+               <Info Type="Middle/Initial">L.</Info>
+               <Info Type="Age">49</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="2697918" Title="Vice President—Construction, Compliance and Safety" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="2585022" Title="Vice President-Constructions, Compliance and Safety" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="1135235" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-03-12T01:23:45" />
+            <Name>
+               <Info Type="LastName">Barnes</Info>
+               <Info Type="FirstName">Michael</Info>
+               <Info Type="Middle/Initial">Darr</Info>
+               <Info Type="Age">72</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="857">George Washington University</College>
+                  <Degree ID="JD ">Juris Doctor</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="1661">University of North Carolina</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+                  <Major ID="82">English</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741878" Title="Lead Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92985" Title="Lead Independent Director" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="168629" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:48:12" />
+            <Name>
+               <Info Type="LastName">Clancy</Info>
+               <Info Type="FirstName">George</Info>
+               <Info Type="Suffix">Jr.</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">P.</Info>
+               <Info Type="Age">72</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="1333">Loyola College</College>
+                  <Degree ID="MBA">Masters of Business Administration</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="2773">University of Maryland</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+                  <Major ID="82">English</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="A05DE" OrgID="59224" Name="Saul Centers Inc" Active="1" />
+               <Officer ID="1698520" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741879" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="168629" Title="Independent Director" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="1135242" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:49:15" />
+            <Name>
+               <Info Type="LastName">Dyke</Info>
+               <Info Type="FirstName">James</Info>
+               <Info Type="Suffix">Jr.</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">W.</Info>
+               <Info Type="Age">69</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="1015">Howard University</College>
+                  <Degree ID="JD ">Juris Doctor</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="1015">Howard University</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741881" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="408781" Title="Independent Director" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="309733" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:50:27" />
+            <Name>
+               <Info Type="LastName">Floyd</Info>
+               <Info Type="FirstName">Nancy</Info>
+               <Info Type="Prefix">Ms.</Info>
+               <Info Type="Middle/Initial">C.</Info>
+               <Info Type="Age">61</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="11021">Rutgers University</College>
+                  <Degree ID="MA ">Master of Arts</Degree>
+                  <Major ID="194">Political Science</Major>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="817">Franklin and Marshall College</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+                  <Major ID="108">Government</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="1593426" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="1592666" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AED94" OrgID="103332923" Name="Imperium Renewables, Inc." Active="0" />
+               <Officer ID="973167" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A4F85" OrgID="157167" Name="SAM Smart Energy, Inc." Active="0" />
+               <Officer ID="309733" Title="Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="871811" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-04-25T00:22:05" />
+            <Name>
+               <Info Type="LastName">Gooden</Info>
+               <Info Type="FirstName">Linda</Info>
+               <Info Type="Prefix">Ms.</Info>
+               <Info Type="Middle/Initial">R.</Info>
+               <Info Type="Age">63</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="2773">University of Maryland</College>
+                  <Degree ID="MBA">Masters of Business Administration</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="3258">Youngstown State University</College>
+               </Degree>
+               <Degree Order="3">
+                  <College ID="2773">University of Maryland</College>
+                  <Degree ID="BS ">Bachelor of Science</Degree>
+                  <Major ID="30">Business Administration</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="0815N" OrgID="20052" Name="Automatic Data Processing" Active="1" />
+               <Officer ID="1292841" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="C8804" OrgID="106512913" Name="General Motors Company" Active="1" />
+               <Officer ID="2579940" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="4366N" OrgID="25418" Name="Home Depot Inc" Active="1" />
+               <Officer ID="2657195" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="2366336" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="2364407" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="5431N" OrgID="18233" Name="Lockheed Martin Corporation" Active="1" />
+               <Officer ID="902146" Title="Executive Vice President - Information Systems &amp; Global Solutions" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="403720" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:52:32" />
+            <Name>
+               <Info Type="LastName">Lafond</Info>
+               <Info Type="FirstName">James</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">F.</Info>
+               <Info Type="Age">73</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <Certifications>
+               <Certificate ID="7">Certified Public Accountant</Certificate>
+            </Certifications>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="69">American International College</College>
+                  <Degree ID="MBA">Masters of Business Administration</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="69">American International College</College>
+                  <Degree ID="BS ">Bachelor of Science</Degree>
+                  <Major ID="1">Accounting</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="93500" OrgID="32600" Name="VSE Corporation" Active="1" />
+               <Officer ID="403720" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741884" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="408782" Title="Independent Director" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="1041580" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:53:17" />
+            <Name>
+               <Info Type="LastName">Lee</Info>
+               <Info Type="FirstName">Debra</Info>
+               <Info Type="Prefix">Ms.</Info>
+               <Info Type="Middle/Initial">L.</Info>
+               <Info Type="Age">61</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="952">Harvard University</College>
+                  <Degree ID="JD ">Juris Doctor</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="952">Harvard University</College>
+                  <Degree ID="M  ">Masters</Degree>
+               </Degree>
+               <Degree Order="3">
+                  <College ID="287">Brown University</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+                  <Major ID="194">Political Science</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="A1A23" OrgID="124184" Name="Marriott International Inc" Active="1" />
+               <Officer ID="499189" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="D048C" OrgID="106108452" Name="Twitter Inc" Active="1" />
+               <Officer ID="2722024" Title="Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741885" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="195703" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="2905N" OrgID="18212" Name="Eastman Kodak Company" Active="1" />
+               <Officer ID="87117" Title="Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A0D61" OrgID="90668" Name="Revlon Inc" Active="1" />
+               <Officer ID="729890" Title="Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A2520" OrgID="20585" Name="Genuity, Inc." Active="0" />
+               <Officer ID="149173" Title="Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="2133931" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:53:59" />
+            <Name>
+               <Info Type="LastName">Rosenthal</Info>
+               <Info Type="FirstName">Dale</Info>
+               <Info Type="Prefix">Ms.</Info>
+               <Info Type="Middle/Initial">S.</Info>
+               <Info Type="Age">59</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="9827">Harvard School of Law</College>
+                  <Degree ID="MBA">Masters of Business Administration</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="563">Cornell University</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+                  <Major ID="70">Economics</Major>
+               </Degree>
+               <Degree Order="3">
+                  <College ID="952">Harvard University</College>
+                  <Degree ID="JD ">Juris Doctor</Degree>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="2641544" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="2549827" Title="Independent Director" Active="1" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="744496" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-05T02:47:29" />
+            <Name>
+               <Info Type="LastName">Beasley</Info>
+               <Info Type="FirstName">Stephen</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">C.</Info>
+               <Info Type="Age">64</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="2954">University of Texas at Austin</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+                  <Major ID="25">Biology</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="ABEEA" OrgID="101643323" Name="SandRidge Energy Inc." Active="1" />
+               <Officer ID="2366176" Title="Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="2588246" Title="Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="2588243" Title="Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AAA4A" OrgID="18960" Name="ANR Pipeline Company" Active="0" />
+               <Officer ID="879238" Title="President, Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A1762" OrgID="111711" Name="BPZ Resources Inc" Active="0" />
+               <Officer ID="1445201" Title="Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A2997" OrgID="50289" Name="El Paso LLC" Active="0" />
+               <Officer ID="757967" Title="President of Eastern Pipeline Group" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A00A9" OrgID="50289" Name="El Paso LLC (OLD)" Active="0" />
+               <Officer ID="757967" Title="President of Eastern Pipeline Group" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AF9D1" OrgID="104569523" Name="Williams Pipeline Partners L.P." Active="0" />
+               <Officer ID="1116053" Title="Independent Director of General Partner" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="65218" Active="0" Deceased="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2015-02-26T23:37:20" />
+            <Name>
+               <Info Type="LastName">Estrin</Info>
+               <Info Type="FirstName">Melvyn</Info>
+               <Info Type="Middle/Initial">J.</Info>
+               <Info Type="Age">72</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="71">American University</College>
+                  <Degree ID="MBA">Masters of Business Administration</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="917">University of Pennsylvania</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+                  <Major ID="70">Economics</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="A6BD0" OrgID="167798" Name="Refocus Group, Inc." Active="1" />
+               <Officer ID="367151" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741883" Title="Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92991" Title="Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="6289N" OrgID="28070" Name="Avatex Corporation" Active="0" />
+               <Officer ID="71647" Title="Co-Chairman of the Board and Co-Chief Executive Officer" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A11A9" OrgID="102345" Name="Carson, Inc." Active="0" />
+               <Officer ID="65218" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A173A" OrgID="76749" Name="Century Bancshares, Inc." Active="0" />
+               <Officer ID="187763" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A040F" OrgID="22553" Name="Imagyn Medical Tech., Inc" Active="0" />
+               <Officer ID="2282044" Title="Board Member" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A1052" OrgID="83453" Name="Phar-Mor, Inc" Active="0" />
+               <Officer ID="39903" Title="Co-Chairman of the Board, Co-Chief Executive Officer" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A291B" OrgID="167798" Name="VeryBestoftheInternet.com" Active="0" />
+               <Officer ID="367151" Title="Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="1324231" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-05-25T10:49:58" />
+            <Name>
+               <Info Type="LastName">Phillips</Info>
+               <Info Type="FirstName">Arden</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">T.</Info>
+               <Info Type="Age">44</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="1531451" Title="Corporate Secretary and Governance Officer" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="1530368" Title="Corporate Secretary and Governance Officer" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92969" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2015-03-22T20:13:55" />
+            <Name>
+               <Info Type="LastName">Burke</Info>
+               <Info Type="FirstName">Beverly</Info>
+               <Info Type="Prefix">Ms.</Info>
+               <Info Type="Middle/Initial">J.</Info>
+               <Info Type="Age">1</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741851" Title="Vice President, General Counsel" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92969" Title="Vice President, General Counsel" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="1372211" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-05-19T07:01:19" />
+            <Name>
+               <Info Type="LastName">Hoskins</Info>
+               <Info Type="FirstName">Diane</Info>
+               <Info Type="Middle/Initial">J.</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="8977">UCLA</College>
+                  <Degree ID="MBA">Masters of Business Administration</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="1405">Massachusetts Institute of Technology</College>
+                  <Degree ID="BS ">Bachelor of Science</Degree>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="1593430" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="1592667" Title="Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="1225641" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-05-19T07:01:19" />
+            <Name>
+               <Info Type="LastName">O'Flynn</Info>
+               <Info Type="FirstName">Mark</Info>
+               <Info Type="Middle/Initial">P.</Info>
+               <Info Type="Age">60</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="1743">Ohio State University</College>
+                  <Degree ID="BS ">Bachelor of Science</Degree>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741867" Title="Vice President - Finance" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="215833" Title="Vice President - Finance" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="58621" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-10-08T12:39:23" />
+            <Name>
+               <Info Type="LastName">Williams</Info>
+               <Info Type="FirstName">Karen</Info>
+               <Info Type="Prefix">Ms.</Info>
+               <Info Type="Middle/Initial">Hastie</Info>
+               <Info Type="Age">66</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="8468N" OrgID="31530" Name="SunTrust Banks, Inc." Active="1" />
+               <Officer ID="238141" Title="Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="3672N" OrgID="24358" Name="Tegna Inc" Active="1" />
+               <Officer ID="58621" Title="Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="2240A" OrgID="96146" Name="United Airlines Inc" Active="1" />
+               <Officer ID="146230" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741886" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92992" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A082B" OrgID="68350" Name="Charles E. Smith Realty" Active="0" />
+               <Officer ID="148402" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="1870N" OrgID="21587" Name="Chubb Corp" Active="0" />
+               <Officer ID="167465" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="23616" OrgID="22326" Name="Crestar Financial Corp." Active="0" />
+               <Officer ID="18683" Title="Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92977" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-05-19T07:01:19" />
+            <Name>
+               <Info Type="LastName">Pope</Info>
+               <Info Type="FirstName">Douglas</Info>
+               <Info Type="Middle/Initial">V.</Info>
+               <Info Type="Age">66</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1947" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741868" Title="Secretary" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92977" Title="Secretary" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92972" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-03-29T22:52:10" />
+            <Name>
+               <Info Type="LastName">DeGraffenreidt</Info>
+               <Info Type="FirstName">James</Info>
+               <Info Type="Suffix">Jr.</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">H.</Info>
+               <Info Type="Age">62</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="534">Columbia University</College>
+                  <Degree ID="MBA">Masters of Business Administration</Degree>
+                  <Graduation Year="1978" />
+               </Degree>
+               <Degree Order="2">
+                  <College ID="3246">Yale University</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+                  <Graduation Year="1974" />
+               </Degree>
+               <Degree Order="3">
+                  <College ID="534">Columbia University</College>
+                  <Degree ID="JD ">Juris Doctor</Degree>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="F10C9" OrgID="63658" Name="Massachusetts Mutual Life Insurance Co" Active="1" />
+               <Officer ID="2354919" Title="Lead Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A232E" OrgID="31148" Name="Vectren Corp" Active="1" />
+               <Officer ID="1449110" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741858" Title="Chairman of the Board, Chief Executive Officer" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92972" Title="Chairman of the Board, Chief Executive Officer" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="104053" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-09-18T18:54:27" />
+            <Name>
+               <Info Type="LastName">Jennings</Info>
+               <Info Type="FirstName">Shelley</Info>
+               <Info Type="Middle/Initial">C.</Info>
+               <Info Type="Age">64</Info>
+               <Info Type="Sex">F</Info>
+               <Birth Year="1949" />
+            </Name>
+            <Certifications>
+               <Certificate ID="22">Certified Financial Analyst</Certificate>
+            </Certifications>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="857">George Washington University</College>
+                  <Degree ID="MBA">Masters of Business Administration</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="3121">Wake Forest University</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+                  <Major ID="194">Political Science</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741860" Title="Treasurer" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="104053" Title="Treasurer" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92968" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-09-19T22:39:42" />
+            <Name>
+               <Info Type="LastName">Arnold</Info>
+               <Info Type="FirstName">Elizabeth</Info>
+               <Info Type="Middle/Initial">M.</Info>
+               <Info Type="Age">60</Info>
+               <Info Type="Sex">F</Info>
+               <Birth Year="1953" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741847" Title="Vice President - Strategy" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92968" Title="Vice President - Strategy" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="217361" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-05-19T07:01:19" />
+            <Name>
+               <Info Type="LastName">Kumar-Rubock</Info>
+               <Info Type="FirstName">Wilma</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="217361" Title="Vice President - Support Services" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="837671" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-05-19T07:01:19" />
+            <Name>
+               <Info Type="LastName">Foley</Info>
+               <Info Type="FirstName">Lauren</Info>
+               <Info Type="Middle/Initial">A.</Info>
+               <Info Type="Age">41</Info>
+               <Info Type="Sex">F</Info>
+            </Name>
+            <Certifications>
+               <Certificate ID="32">Certified Internal Auditor</Certificate>
+            </Certifications>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="250">Boston College</College>
+                  <Degree ID="MBA">Masters of Business Administration</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="936">University of Massachusetts</College>
+                  <Degree ID="BS ">Bachelor of Science</Degree>
+                  <Major ID="145">Management</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="906488" Title="Vice President - Consumer Services" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="863026" Title="Vice President-Consumer Services" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="350010" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-10-08T12:47:14" />
+            <Name>
+               <Info Type="LastName">Bonner</Info>
+               <Info Type="FirstName">Thomas</Info>
+               <Info Type="Middle/Initial">F.</Info>
+               <Info Type="Age">62</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1951" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741850" Title="Vice President of engineering and construction" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="350010" Title="Vice President -Engineering and Construction" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92982" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-10-08T15:29:18" />
+            <Name>
+               <Info Type="LastName">White</Info>
+               <Info Type="FirstName">James</Info>
+               <Info Type="Middle/Initial">B.</Info>
+               <Info Type="Age">59</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1954" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741874" Title="Vice President - Customer Service" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92982" Title="Vice President-Customer Service" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92975" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-10-08T12:39:23" />
+            <Name>
+               <Info Type="LastName">Kline</Info>
+               <Info Type="FirstName">Frederic</Info>
+               <Info Type="Middle/Initial">M.</Info>
+               <Info Type="Age">59</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1954" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="AAC40" OrgID="158124" Name="Washington Gas Light Company" Active="1" />
+               <Officer ID="741862" Title="Chief Financial Officer, Vice President" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92975" Title="Chief Financial Officer, Vice President" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92987" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-10-08T12:39:23" />
+            <Name>
+               <Info Type="LastName">Callahan</Info>
+               <Info Type="FirstName">Daniel</Info>
+               <Info Type="Suffix">III</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="Middle/Initial">J.</Info>
+               <Info Type="Age">76</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1937" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92987" Title="Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92980" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-09-19T22:41:02" />
+            <Name>
+               <Info Type="LastName">Sykes</Info>
+               <Info Type="FirstName">Robert</Info>
+               <Info Type="Middle/Initial">A.</Info>
+               <Info Type="Age">60</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1953" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92980" Title="Vice President - Human Resources" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="131414" Active="1" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-08-07T21:20:36" />
+            <Name>
+               <Info Type="LastName">Odeen</Info>
+               <Info Type="FirstName">Philip</Info>
+               <Info Type="Prefix">Mr.</Info>
+               <Info Type="PreferredName">Phil</Info>
+               <Info Type="Middle/Initial">A.</Info>
+               <Info Type="Age">80</Info>
+               <Info Type="Sex">M</Info>
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="3034">University of Wisconsin</College>
+                  <Degree ID="MA ">Master of Arts</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="2919">University of South Dakota</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+                  <Major ID="108">Government</Major>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="CB478" OrgID="107774826" Name="Booz Allen Hamilton Holding Corporation" Active="1" />
+               <Officer ID="1524995" Title="Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="ECCA5" OrgID="113531602" Name="Globant SA" Active="1" />
+               <Officer ID="2530048" Title="Lead Independent Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="C12AE" OrgID="106972028" Name="XStream Systems, Inc." Active="1" />
+               <Officer ID="1418231" Title="Director" Active="1" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A0390" OrgID="18924" Name="AES Corp" Active="1" />
+               <Officer ID="366648" Title="Chairman of the Board, Lead Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A26BE" OrgID="147582" Name="Avaya Inc." Active="1" />
+               <Officer ID="321830" Title="Non-Executive Chairman of the Board, Lead Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A1C4C" OrgID="129859" Name="Convergys Corp" Active="1" />
+               <Officer ID="131414" Title="Lead Independent Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="6522N" OrgID="28456" Name="Northrop Grumman Corporation" Active="1" />
+               <Officer ID="351929" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="133096" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A5DE5" OrgID="100872749" Name="Booz Allen Hamilton Inc." Active="0" />
+               <Officer ID="1631744" Title="Director" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="7578N" OrgID="30119" Name="Reynolds &amp; Reynolds Company" Active="0" />
+               <Officer ID="54369" Title="Chairman of the Board" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="8578N" OrgID="31653" Name="TRW Inc." Active="0" />
+               <Officer ID="20773" Title="Chairman of the Board" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92981" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-09-19T22:41:02" />
+            <Name>
+               <Info Type="LastName">Tuoriniemi</Info>
+               <Info Type="FirstName">Robert</Info>
+               <Info Type="Middle/Initial">E.</Info>
+               <Info Type="Age">50</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1963" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92981" Title="Controller" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92970" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-09-19T22:39:42" />
+            <Name>
+               <Info Type="LastName">Cook</Info>
+               <Info Type="FirstName">Richard</Info>
+               <Info Type="Middle/Initial">J.</Info>
+               <Info Type="Age">65</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1948" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92970" Title="Vice President - Construction and Technical Support" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92974" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2015-03-22T20:13:57" />
+            <Name>
+               <Info Type="LastName">Keane</Info>
+               <Info Type="FirstName">John</Info>
+               <Info Type="Suffix">Jr.</Info>
+               <Info Type="Middle/Initial">K.</Info>
+               <Info Type="Age">68</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1947" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92974" Title="Senior Vice President and General Counsel" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92986" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-09-19T22:41:02" />
+            <Name>
+               <Info Type="LastName">Brinkman</Info>
+               <Info Type="FirstName">Fred</Info>
+               <Info Type="Middle/Initial">J.</Info>
+               <Info Type="Age">77</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1936" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92986" Title="Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92988" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-09-19T22:41:02" />
+            <Name>
+               <Info Type="LastName">Darden</Info>
+               <Info Type="FirstName">Orlando</Info>
+               <Info Type="Middle/Initial">W.</Info>
+               <Info Type="Age">75</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1938" />
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="1015">Howard University</College>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92988" Title="Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="717348" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2016-02-11T11:37:36" />
+            <Name>
+               <Info Type="LastName">Fisher</Info>
+               <Info Type="FirstName">Richard</Info>
+               <Info Type="Middle/Initial">L.</Info>
+               <Info Type="Age">72</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1955" />
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="917">University of Pennsylvania</College>
+                  <Degree ID="MA ">Master of Arts</Degree>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="917">University of Pennsylvania</College>
+                  <Degree ID="BA ">Bachelor of Arts</Degree>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92973" Title="Vice President -Delivery Services" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="A9CFF" OrgID="100316905" Name="Strategic Hotels and Resorts Inc" Active="0" />
+               <Officer ID="721313" Title="Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92978" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-09-19T22:41:02" />
+            <Name>
+               <Info Type="LastName">Schepis</Info>
+               <Info Type="FirstName">Joseph</Info>
+               <Info Type="Middle/Initial">M.</Info>
+               <Info Type="Age">51</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1962" />
+            </Name>
+            <EducationHistory>
+               <Degree Order="1">
+                  <College ID="858">Georgetown University</College>
+               </Degree>
+               <Degree Order="2">
+                  <College ID="857">George Washington University</College>
+               </Degree>
+            </EducationHistory>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92978" Title="President, Chief Operating Officer, Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="92976" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-09-19T22:41:02" />
+            <Name>
+               <Info Type="LastName">Metcalfe</Info>
+               <Info Type="FirstName">Lisa</Info>
+               <Info Type="Middle/Initial">M.</Info>
+               <Info Type="Age">41</Info>
+               <Info Type="Sex">F</Info>
+               <Birth Year="1972" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92976" Title="Vice President and Chief Information Officer" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+      <officer>
+         <Person xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1" ID="18675" Active="0" />
+         <PersonInformation xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <LastModified Date="2013-09-19T04:28:37" />
+            <Name>
+               <Info Type="LastName">Maher</Info>
+               <Info Type="FirstName">Patrick</Info>
+               <Info Type="Middle/Initial">J.</Info>
+               <Info Type="Age">65</Info>
+               <Info Type="Sex">M</Info>
+               <Birth Year="1948" />
+            </Name>
+         </PersonInformation>
+         <CorporateAffiliations xmlns="http://www.reuters.com/ns/2009/01/26/webservices/rkd/OfficersDirectors_1">
+            <Affiliation Order="0">
+               <Company RepNo="9588N" OrgID="32983" Name="WGL Holdings Inc" Active="1" />
+               <Officer ID="92993" Title="Chairman of the Board" Active="0" />
+            </Affiliation>
+            <Affiliation Order="0">
+               <Company RepNo="23616" OrgID="22326" Name="Crestar Financial Corp." Active="0" />
+               <Officer ID="18675" Title="Director" Active="0" />
+            </Affiliation>
+         </CorporateAffiliations>
+      </officer>
+   </officers>
+</result>
