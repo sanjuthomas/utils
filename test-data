@@ -1,0 +1,126 @@
+sthomas@HP745-2699 ~/.ssh
+$ ssh -vvv ssh.marklogic.com
+OpenSSH_7.3p1, OpenSSL 1.0.2k  26 Jan 2017
+debug2: resolving "ssh.marklogic.com" port 22
+debug2: ssh_connect_direct: needpriv 0
+debug1: Connecting to ssh.marklogic.com [172.18.1.26] port 22.
+debug1: Connection established.
+debug1: identity file /home/sthomas/.ssh/id_rsa type 1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/sthomas/.ssh/id_rsa-cert type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/sthomas/.ssh/id_dsa type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/sthomas/.ssh/id_dsa-cert type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/sthomas/.ssh/id_ecdsa type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/sthomas/.ssh/id_ecdsa-cert type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/sthomas/.ssh/id_ed25519 type -1
+debug1: key_load_public: No such file or directory
+debug1: identity file /home/sthomas/.ssh/id_ed25519-cert type -1
+debug1: Enabling compatibility mode for protocol 2.0
+debug1: Local version string SSH-2.0-OpenSSH_7.3
+debug1: Remote protocol version 2.0, remote software version OpenSSH_4.3
+debug1: match: OpenSSH_4.3 pat OpenSSH_4* compat 0x00000000
+debug2: fd 3 setting O_NONBLOCK
+debug1: Authenticating to ssh.marklogic.com:22 as 'sthomas'
+debug3: hostkeys_foreach: reading file "/home/sthomas/.ssh/known_hosts"
+debug3: record_hostkey: found key type RSA in file /home/sthomas/.ssh/known_host                                                                                                                                                 s:2
+debug3: load_hostkeys: loaded 1 keys from ssh.marklogic.com
+debug3: order_hostkeyalgs: prefer hostkeyalgs: ssh-rsa-cert-v01@openssh.com,rsa-                                                                                                                                                 sha2-512,rsa-sha2-256,ssh-rsa
+debug3: send packet: type 20
+debug1: SSH2_MSG_KEXINIT sent
+debug3: receive packet: type 20
+debug1: SSH2_MSG_KEXINIT received
+debug2: local client KEXINIT proposal
+debug2: KEX algorithms: curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha                                                                                                                                                 2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellma                                                                                                                                                 n-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha                                                                                                                                                 1,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c
+debug2: host key algorithms: ssh-rsa-cert-v01@openssh.com,rsa-sha2-512,rsa-sha2-                                                                                                                                                 256,ssh-rsa,ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v0                                                                                                                                                 1@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519-cert-v01@open                                                                                                                                                 ssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519
+debug2: ciphers ctos: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256                                                                                                                                                 -ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com,aes128-cbc,aes192-cbc,aes256-                                                                                                                                                 cbc,3des-cbc
+debug2: ciphers stoc: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256                                                                                                                                                 -ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com,aes128-cbc,aes192-cbc,aes256-                                                                                                                                                 cbc,3des-cbc
+debug2: MACs ctos: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-25                                                                                                                                                 6-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-6                                                                                                                                                 4@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+debug2: MACs stoc: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-25                                                                                                                                                 6-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-6                                                                                                                                                 4@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+debug2: compression ctos: none,zlib@openssh.com,zlib
+debug2: compression stoc: none,zlib@openssh.com,zlib
+debug2: languages ctos:
+debug2: languages stoc:
+debug2: first_kex_follows 0
+debug2: reserved 0
+debug2: peer server KEXINIT proposal
+debug2: KEX algorithms: diffie-hellman-group-exchange-sha1,diffie-hellman-group1                                                                                                                                                 4-sha1,diffie-hellman-group1-sha1
+debug2: host key algorithms: ssh-rsa,ssh-dss
+debug2: ciphers ctos: aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes                                                                                                                                                 128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael                                                                                                                                                 -cbc@lysator.liu.se
+debug2: ciphers stoc: aes128-ctr,aes192-ctr,aes256-ctr,arcfour256,arcfour128,aes                                                                                                                                                 128-cbc,3des-cbc,blowfish-cbc,cast128-cbc,aes192-cbc,aes256-cbc,arcfour,rijndael                                                                                                                                                 -cbc@lysator.liu.se
+debug2: MACs ctos: hmac-md5,hmac-sha1,hmac-ripemd160,hmac-ripemd160@openssh.com,                                                                                                                                                 hmac-sha1-96,hmac-md5-96
+debug2: MACs stoc: hmac-md5,hmac-sha1,hmac-ripemd160,hmac-ripemd160@openssh.com,                                                                                                                                                 hmac-sha1-96,hmac-md5-96
+debug2: compression ctos: none,zlib@openssh.com
+debug2: compression stoc: none,zlib@openssh.com
+debug2: languages ctos:
+debug2: languages stoc:
+debug2: first_kex_follows 0
+debug2: reserved 0
+debug1: kex: algorithm: diffie-hellman-group-exchange-sha1
+debug1: kex: host key algorithm: ssh-rsa
+debug1: kex: server->client cipher: aes128-ctr MAC: hmac-sha1 compression: none
+debug1: kex: client->server cipher: aes128-ctr MAC: hmac-sha1 compression: none
+debug3: send packet: type 34
+debug1: SSH2_MSG_KEX_DH_GEX_REQUEST(2048<7680<8192) sent
+debug3: receive packet: type 31
+debug1: got SSH2_MSG_KEX_DH_GEX_GROUP
+debug2: bits set: 3079/6144
+debug3: send packet: type 32
+debug1: SSH2_MSG_KEX_DH_GEX_INIT sent
+debug3: receive packet: type 33
+debug1: got SSH2_MSG_KEX_DH_GEX_REPLY
+debug1: Server host key: ssh-rsa SHA256:guv67rDYfnY27heH9jhRKNsZYiMOhn2AQz6i+kZ8                                                                                                                                                 78E
+debug3: hostkeys_foreach: reading file "/home/sthomas/.ssh/known_hosts"
+debug3: record_hostkey: found key type RSA in file /home/sthomas/.ssh/known_host                                                                                                                                                 s:2
+debug3: load_hostkeys: loaded 1 keys from ssh.marklogic.com
+debug3: hostkeys_foreach: reading file "/home/sthomas/.ssh/known_hosts"
+debug3: record_hostkey: found key type RSA in file /home/sthomas/.ssh/known_host                                                                                                                                                 s:2
+debug3: load_hostkeys: loaded 1 keys from 172.18.1.26
+debug1: Host 'ssh.marklogic.com' is known and matches the RSA host key.
+debug1: Found key in /home/sthomas/.ssh/known_hosts:2
+debug2: bits set: 3054/6144
+debug3: send packet: type 21
+debug2: set_newkeys: mode 1
+debug1: rekey after 4294967296 blocks
+debug1: SSH2_MSG_NEWKEYS sent
+debug1: expecting SSH2_MSG_NEWKEYS
+debug3: receive packet: type 21
+debug2: set_newkeys: mode 0
+debug1: rekey after 4294967296 blocks
+debug1: SSH2_MSG_NEWKEYS received
+debug2: key: /home/sthomas/.ssh/id_rsa (0x60006c4a0)
+debug2: key: /home/sthomas/.ssh/id_dsa (0x0)
+debug2: key: /home/sthomas/.ssh/id_ecdsa (0x0)
+debug2: key: /home/sthomas/.ssh/id_ed25519 (0x0)
+debug3: send packet: type 5
+debug3: receive packet: type 6
+debug2: service_accept: ssh-userauth
+debug1: SSH2_MSG_SERVICE_ACCEPT received
+debug3: send packet: type 50
+debug3: receive packet: type 51
+debug1: Authentications that can continue: publickey,gssapi-with-mic
+debug3: start over, passed a different list publickey,gssapi-with-mic
+debug3: preferred publickey,keyboard-interactive,password
+debug3: authmethod_lookup publickey
+debug3: remaining preferred: keyboard-interactive,password
+debug3: authmethod_is_enabled publickey
+debug1: Next authentication method: publickey
+debug1: Offering RSA public key: /home/sthomas/.ssh/id_rsa
+debug3: send_pubkey_test
+debug3: send packet: type 50
+debug2: we sent a publickey packet, wait for reply
+debug3: receive packet: type 51
+debug1: Authentications that can continue: publickey,gssapi-with-mic
+debug1: Trying private key: /home/sthomas/.ssh/id_dsa
+debug3: no such identity: /home/sthomas/.ssh/id_dsa: No such file or directory
+debug1: Trying private key: /home/sthomas/.ssh/id_ecdsa
+debug3: no such identity: /home/sthomas/.ssh/id_ecdsa: No such file or directory
+debug1: Trying private key: /home/sthomas/.ssh/id_ed25519
+debug3: no such identity: /home/sthomas/.ssh/id_ed25519: No such file or directo                                                                                                                                                 ry
+debug2: we did not send a packet, disable method
+debug1: No more authentication methods to try.
+Permission denied (publickey,gssapi-with-mic).
